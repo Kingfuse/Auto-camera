@@ -1,0 +1,16 @@
+{
+  "author": "seraphinush . teralove",
+  "description": "tera-toolbox module to unlock maximum viewing distance",
+  "disableAutoUpdate": false,
+  "donationUrl": "https://www.paypal.me/seraphinush",
+  "name": "auto-camera",
+  "options": {
+    "reloadable": false,
+    "settingsVersion": 1,
+    "settingsFile": "config.json",
+    "settingsMigrator": "settings.js"
+  },
+  "servers": ["https://raw.githubusercontent.com/ylennia-archives/auto-camera/master/"],
+  "supportUrl": "https://github.com/ylennia-archives/auto-camera/blob/master/README.md",
+  "version": "2.04.01.v106.02"
+}
